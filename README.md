@@ -34,9 +34,10 @@ Species (Setosa, Versicolor, Virginica)
 **Joint Plot**: Highlights the relationship between sepal length and sepal width using a scatter plot.
 
 **KDE Plots**: Kernel Density Estimation plots for the 'Setosa' species, visualizing sepal and petal features.
-Requirements
+# **Requirements**
+ 
 
-# **To run the code in this notebook, you will need the following Python libraries:**
+**To run the code in this notebook, you will need the following Python libraries:**
 
 seaborn
 
@@ -44,7 +45,7 @@ matplotlib
 
 pandas (for data manipulation, if not already included)
 
-Usage
+# **Usage**
 
 Clone this repository.
 
@@ -52,7 +53,7 @@ Install the required libraries using pip install seaborn matplotlib pandas.
 
 Run the Jupyter Notebook to explore the visualizations.
 
-How to Run
+# **How to Run**
 
 Open the notebook in Jupyter or Google Colab.
 
@@ -70,4 +71,4 @@ The Iris dataset is a classic dataset in machine learning, first introduced by S
 
 The visualizations were created using Seaborn and Matplotlib, which are powerful tools for data analysis and visualization in Python.
 
-This README covers the purpose of the project, the dataset used, the types of visualizations included, and instructions on how to use the code. You can modify it further based on specific details or requirements of your project.
+ 
